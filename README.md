@@ -1,1 +1,0 @@
-# consulttrojan.github.io

@@ -1,0 +1,11 @@
+/* Your custom css code goes here */
+.color-aqua {
+    color: aqua;
+}
+
+.probootstrap-animated-slow {
+    -webkit-animation-duration: 3.0s;
+    animation-duration: 3.0s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
