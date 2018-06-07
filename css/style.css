@@ -126,10 +126,10 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-nav {
-  margin-left: 60px;
+  margin-left: 30px;
   text-align: left;
   float: left;
-  width: calc(100% - 200px);
+  width: calc(100% - 300px);
   position: relative;
 }
 
